@@ -1,5 +1,30 @@
 {
   "users": [],
   "posts": [],
-  "students": []
+  "students": [
+    {
+      "id": "0364",
+      "name": "Asraful Haque Khan",
+      "skill": "Laravel",
+      "age": "12",
+      "location": "Badda",
+      "photo": "https://res.cloudinary.com/dhcftpm1r/image/upload/v1735488508/ymu3l1bks87p71psdnml.jpg"
+    },
+    {
+      "id": "0f4f",
+      "name": "Anarkoli ",
+      "skill": "Laravel",
+      "age": "12",
+      "location": "Gulshan",
+      "photo": "https://res.cloudinary.com/dhcftpm1r/image/upload/v1735488577/fyl1njp1vbsdqymi9tsg.jpg"
+    },
+    {
+      "id": "8c0d",
+      "name": "Nayeem",
+      "skill": "Laravel",
+      "age": "10",
+      "location": "Badda",
+      "photo": "https://res.cloudinary.com/dhcftpm1r/image/upload/v1736954717/jokngf2fxwgizqv5uezi.webp"
+    }
+  ]
 }
